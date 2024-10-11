@@ -2,6 +2,8 @@
 
 This project demonstrates an end-to-end data engineering solution on Azure Cloud, focusing on extracting, transforming, and analyzing data from the Olympics. The project utilizes various Azure services, including Azure Data Factory, Databricks, Data Lake Storage, and Synapse Analytics, to showcase the capabilities of data engineering and analytics.
 
+![image](https://github.com/user-attachments/assets/cdacf093-1b75-4e0c-b2bd-241d05fc8249)
+
 ### Project Overview
 
 The dataset includes information about 11,000 athletes, 47 disciplines, and 743 teams participating in the  Olympics . The data is processed, transformed, and analyzed using Azure services to extract meaningful insights.
@@ -13,8 +15,6 @@ The dataset includes information about 11,000 athletes, 47 disciplines, and 743 
    - Set up a new subscription and create a dedicated resource group for organizing the project resources.
 
 
-
-![image](https://github.com/user-attachments/assets/cdacf093-1b75-4e0c-b2bd-241d05fc8249)
 
 ![image](https://github.com/user-attachments/assets/83d59550-8096-4b03-81d9-4318fc003c21)
 
