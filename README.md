@@ -20,6 +20,11 @@ The dataset includes information about 11,000 athletes, 47 disciplines, and 743 
 
 ![image](https://github.com/user-attachments/assets/064b74be-606d-4590-b2fb-154c0f4881d8)
 
+
+2. **Storage and Data Factory Setup**
+   - Create an Azure Storage Account in your preferred region, enabling the hierarchical namespace for easy data management.
+   - Set up Azure Data Factory (ADF) within the same resource group and configure networking and encryption settings.
+
 ![image](https://github.com/user-attachments/assets/56a5e972-d3db-4e13-8450-24b9362e4a45)
 
 
@@ -33,10 +38,6 @@ The dataset includes information about 11,000 athletes, 47 disciplines, and 743 
 
 ![image](https://github.com/user-attachments/assets/8cdabd27-95f1-4613-8edb-aa2b21fb452c)
 
-
-2. **Storage and Data Factory Setup**
-   - Create an Azure Storage Account in your preferred region, enabling the hierarchical namespace for easy data management.
-   - Set up Azure Data Factory (ADF) within the same resource group and configure networking and encryption settings.
 
 3. **Data Extraction and Loading**
    - Extract data from a public API or a GitHub repository using Azure Data Factory.
