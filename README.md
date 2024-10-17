@@ -169,6 +169,8 @@ If we need to create Apache spark Pool-
 
 
 further tables-
+
+
 ![image](https://github.com/user-attachments/assets/42b55613-c1ed-4d0d-b36b-7b44350623ed)
 
 ![image](https://github.com/user-attachments/assets/c7c5b378-436b-474f-b317-49d7f66953ef)
