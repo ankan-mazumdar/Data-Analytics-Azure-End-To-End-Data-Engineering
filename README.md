@@ -102,6 +102,7 @@ Repeat copy for all files
 
 
 App registration to connect AzDF to AzDatadbricks-
+
 ![image](https://github.com/user-attachments/assets/db9e9d20-29fc-4193-9024-1d7121e5d5ee)
 
 
@@ -134,7 +135,9 @@ transformation, Appropriate datatype connversion with help of infer schema in sp
 
 ![image](https://github.com/user-attachments/assets/7e512965-8317-4d97-b1d7-1be9766e52f5)
 
-repartition
+Repartition-
+
+
 ![image](https://github.com/user-attachments/assets/9948ad7a-8aea-4402-bffc-48b15e4df02f)
 
 ![image](https://github.com/user-attachments/assets/84242272-66ae-4a53-a39d-fa3f2db55dd8)
